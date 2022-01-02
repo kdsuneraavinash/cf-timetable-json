@@ -4181,16 +4181,6 @@
     },
     {
         "company": "IFS",
-        "panel": "2",
-        "student_id": "170343T",
-        "student_name": "Lavarthan Selvaratnam",
-        "start": "4th 10:00",
-        "end": "4th 10:30",
-        "start_t": 6360,
-        "end_t": 6390
-    },
-    {
-        "company": "IFS",
         "panel": "3",
         "student_id": "170011B",
         "student_name": "Shashini Abeywickrama",
