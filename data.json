@@ -42,6 +42,16 @@
     {
         "company": "4 Axis Solutions (Pvt) Ltd",
         "panel": "1",
+        "student_id": "170142X",
+        "student_name": "Test 4",
+        "start": "4th 09:25",
+        "end": "4th 09:45",
+        "start_t": 6325,
+        "end_t": 6345
+    },
+    {
+        "company": "4 Axis Solutions (Pvt) Ltd",
+        "panel": "1",
         "student_id": "170638D",
         "student_name": "Achintha Isuru",
         "start": "4th 09:50",
