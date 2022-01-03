@@ -10178,7 +10178,20 @@
             "notes-3": "",
             "start_t": 7800,
             "end_t": 7845
+        },
+        {
+            "company": "WOS2",
+            "panel": "42",
+            "student_id": "170145M",
+            "student_name": "Sachini Dissanayaka",
+            "start": "4th 12:00",
+            "end": "4th 12:45",
+            "notes-1": "",
+            "notes-2": "",
+            "notes-3": "",
+            "start_t": 6480,
+            "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-03 18:19:18"
+    "updated": "Last Updated: 2022-01-03 18:28:37"
 }
