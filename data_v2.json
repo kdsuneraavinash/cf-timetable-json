@@ -7831,13 +7831,13 @@
             "panel": "1",
             "student_id": "170018D",
             "student_name": "Afra Hussaindeen",
-            "start": "5th 09:00",
-            "end": "5th 10:00",
+            "start": "5th 17:00",
+            "end": "5th 18:00",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 7740,
-            "end_t": 7800
+            "start_t": 8220,
+            "end_t": 8280
         },
         {
             "company": "Sysco LABS Technologies (Pvt) Limited : SE_11",
@@ -10102,5 +10102,5 @@
             "end_t": 7830
         }
     ],
-    "updated": "Last Updated: 2022-01-03 15:03:10"
+    "updated": "Last Updated: 2022-01-03 15:07:28"
 }
