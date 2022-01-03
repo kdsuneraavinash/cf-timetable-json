@@ -10152,7 +10152,46 @@
             "notes-3": "",
             "start_t": 6480,
             "end_t": 6525
+        },
+        {
+            "company": "WOS2",
+            "panel": "36",
+            "student_id": "170303X",
+            "student_name": "Kannan Kirishikesan",
+            "start": "4th 14:00",
+            "end": "4th 14:45",
+            "notes-1": "",
+            "notes-2": "",
+            "notes-3": "",
+            "start_t": 6600,
+            "end_t": 6645
+        },
+        {
+            "company": "WOS2",
+            "panel": "37",
+            "student_id": "170481M",
+            "student_name": "Lakith Rambukkanage",
+            "start": "4th 10:30",
+            "end": "4th 11:15",
+            "notes-1": "",
+            "notes-2": "",
+            "notes-3": "",
+            "start_t": 6390,
+            "end_t": 6435
+        },
+        {
+            "company": "WOS2",
+            "panel": "38",
+            "student_id": "170342N",
+            "student_name": "Minul Lamahewage",
+            "start": "4th 11:45",
+            "end": "4th 12:30",
+            "notes-1": "",
+            "notes-2": "",
+            "notes-3": "",
+            "start_t": 6465,
+            "end_t": 6510
         }
     ],
-    "updated": "Last Updated: 2022-01-03 16:24:11"
+    "updated": "Last Updated: 2022-01-03 16:57:47"
 }
