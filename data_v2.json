@@ -128,7 +128,7 @@
             "student_name": "Kirishikesan Kannan",
             "start": "4th 09:35",
             "end": "4th 10:05",
-            "": "11.05-11.35",
+            "": "5th 11.05-11.35",
             "start_t": 6335,
             "end_t": 6365
         },
@@ -5820,6 +5820,61 @@
             "end_t": 6365
         },
         {
+            "company": "Orangehrm : Research Architect",
+            "panel": "1",
+            "student_id": "170294R",
+            "student_name": "Imasha_karunarathne",
+            "start": "4th 10:10",
+            "end": "4th 10:40",
+            "": "",
+            "start_t": 6370,
+            "end_t": 6400
+        },
+        {
+            "company": "Orangehrm : Research Architect",
+            "panel": "1",
+            "student_id": "170571N",
+            "student_name": "Rukmal Senavirathne",
+            "start": "4th 10:45",
+            "end": "4th 11:15",
+            "": "",
+            "start_t": 6405,
+            "end_t": 6435
+        },
+        {
+            "company": "Orangehrm : Research Architect",
+            "panel": "1",
+            "student_id": "170016U",
+            "student_name": "Jayampathi Adhikari",
+            "start": "4th 11:20",
+            "end": "4th 11:50",
+            "": "",
+            "start_t": 6440,
+            "end_t": 6470
+        },
+        {
+            "company": "Orangehrm : Research Architect",
+            "panel": "1",
+            "student_id": "170413J",
+            "student_name": "Kashyapa Niyarepola",
+            "start": "4th 13:00",
+            "end": "4th 13:30",
+            "": "",
+            "start_t": 6540,
+            "end_t": 6570
+        },
+        {
+            "company": "Orangehrm : Research Architect",
+            "panel": "1",
+            "student_id": "170094E",
+            "student_name": "Sasmitha Dasanayaka",
+            "start": "4th 13:35",
+            "end": "4th 14:05",
+            "": "",
+            "start_t": 6575,
+            "end_t": 6605
+        },
+        {
             "company": "Orangehrm : SE",
             "panel": "1",
             "student_id": "170568L",
@@ -5840,61 +5895,6 @@
             "": "",
             "start_t": 6335,
             "end_t": 6365
-        },
-        {
-            "company": "Orangehrm : SE",
-            "panel": "1",
-            "student_id": "170294R",
-            "student_name": "Imasha_karunarathne",
-            "start": "4th 10:10",
-            "end": "4th 10:40",
-            "": "",
-            "start_t": 6370,
-            "end_t": 6400
-        },
-        {
-            "company": "Orangehrm : SE",
-            "panel": "1",
-            "student_id": "170571N",
-            "student_name": "Rukmal Senavirathne",
-            "start": "4th 10:45",
-            "end": "4th 11:15",
-            "": "",
-            "start_t": 6405,
-            "end_t": 6435
-        },
-        {
-            "company": "Orangehrm : SE",
-            "panel": "1",
-            "student_id": "170016U",
-            "student_name": "Jayampathi Adhikari",
-            "start": "4th 11:20",
-            "end": "4th 11:50",
-            "": "",
-            "start_t": 6440,
-            "end_t": 6470
-        },
-        {
-            "company": "Orangehrm : SE",
-            "panel": "1",
-            "student_id": "170413J",
-            "student_name": "Kashyapa Niyarepola",
-            "start": "4th 13:00",
-            "end": "4th 13:30",
-            "": "",
-            "start_t": 6540,
-            "end_t": 6570
-        },
-        {
-            "company": "Orangehrm : SE",
-            "panel": "1",
-            "student_id": "170094E",
-            "student_name": "Sasmitha Dasanayaka",
-            "start": "4th 13:35",
-            "end": "4th 14:05",
-            "": "",
-            "start_t": 6575,
-            "end_t": 6605
         },
         {
             "company": "Orangehrm : SE",
@@ -8515,5 +8515,5 @@
             "end_t": 6510
         }
     ],
-    "updated": "Last Updated: 2022-01-03 12:31:00"
+    "updated": "Last Updated: 2022-01-03 12:34:21"
 }
