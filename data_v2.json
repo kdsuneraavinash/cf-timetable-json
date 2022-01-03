@@ -115,33 +115,33 @@
             "panel": "1",
             "student_id": "170158F",
             "student_name": "Savindu Ekanayake",
-            "start": "4th 09:00",
-            "end": "4th 09:30",
-            "": "10.30-11.00",
-            "start_t": 6300,
-            "end_t": 6330
+            "start": "5th 10:30",
+            "end": "5th 11:00",
+            "": "",
+            "start_t": 7830,
+            "end_t": 7860
         },
         {
             "company": "Aeturnum Lanka",
             "panel": "1",
             "student_id": "170303X",
             "student_name": "Kirishikesan Kannan",
-            "start": "4th 09:35",
-            "end": "4th 10:05",
-            "": "5th 11.05-11.35",
-            "start_t": 6335,
-            "end_t": 6365
+            "start": "5th 11:05",
+            "end": "5th 11:35",
+            "": "",
+            "start_t": 7865,
+            "end_t": 7895
         },
         {
             "company": "Aeturnum Lanka",
             "panel": "1",
             "student_id": "170205A",
             "student_name": "Hemaka Hansika",
-            "start": "4th 11:30",
-            "end": "4th 12:00",
-            "": "11.40-12.10",
-            "start_t": 6450,
-            "end_t": 6480
+            "start": "5th 11:40",
+            "end": "5th 12:10",
+            "": "",
+            "start_t": 7900,
+            "end_t": 7930
         },
         {
             "company": "Arimac Lanka (Pvt) Ltd.",
@@ -5826,7 +5826,7 @@
             "student_name": "Imasha_karunarathne",
             "start": "4th 10:10",
             "end": "4th 10:40",
-            "": "",
+            "": "X",
             "start_t": 6370,
             "end_t": 6400
         },
@@ -5837,7 +5837,7 @@
             "student_name": "Rukmal Senavirathne",
             "start": "4th 10:45",
             "end": "4th 11:15",
-            "": "",
+            "": "X",
             "start_t": 6405,
             "end_t": 6435
         },
@@ -5848,7 +5848,7 @@
             "student_name": "Jayampathi Adhikari",
             "start": "4th 11:20",
             "end": "4th 11:50",
-            "": "",
+            "": "X",
             "start_t": 6440,
             "end_t": 6470
         },
@@ -5859,7 +5859,7 @@
             "student_name": "Kashyapa Niyarepola",
             "start": "4th 13:00",
             "end": "4th 13:30",
-            "": "",
+            "": "X",
             "start_t": 6540,
             "end_t": 6570
         },
@@ -5870,7 +5870,7 @@
             "student_name": "Sasmitha Dasanayaka",
             "start": "4th 13:35",
             "end": "4th 14:05",
-            "": "",
+            "": "X",
             "start_t": 6575,
             "end_t": 6605
         },
@@ -8510,10 +8510,10 @@
             "student_name": "Lakshan Weerasinghe",
             "start": "4th 12:00",
             "end": "4th 12:30",
-            "": "",
+            "": "T",
             "start_t": 6480,
             "end_t": 6510
         }
     ],
-    "updated": "Last Updated: 2022-01-03 12:34:21"
+    "updated": "Last Updated: 2022-01-03 12:38:26"
 }
