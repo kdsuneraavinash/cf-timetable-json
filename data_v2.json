@@ -2187,19 +2187,6 @@
         {
             "company": "CodeGen International (Pvt) Ltd",
             "panel": "6",
-            "student_id": "170046K",
-            "student_name": "Uthayamalini Arudselvam",
-            "start": "4th 09:35",
-            "end": "4th 10:05",
-            "notes-1": "",
-            "notes-2": "",
-            "notes-3": "",
-            "start_t": 6335,
-            "end_t": 6365
-        },
-        {
-            "company": "CodeGen International (Pvt) Ltd",
-            "panel": "6",
             "student_id": "170681C",
             "student_name": "Lakshan_Weerasinghe",
             "start": "4th 10:35",
@@ -2252,8 +2239,8 @@
         {
             "company": "CodeGen International (Pvt) Ltd",
             "panel": "7",
-            "student_id": "170031K",
-            "student_name": "Ruchin Amaratunga",
+            "student_id": "170046K",
+            "student_name": "Uthayamalini Arudselvam",
             "start": "4th 09:35",
             "end": "4th 10:05",
             "notes-1": "",
@@ -10193,5 +10180,5 @@
             "end_t": 6510
         }
     ],
-    "updated": "Last Updated: 2022-01-03 16:58:10"
+    "updated": "Last Updated: 2022-01-03 17:00:18"
 }
