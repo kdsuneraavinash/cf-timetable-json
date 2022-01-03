@@ -9742,13 +9742,13 @@
             "panel": "5",
             "student_id": "170031K",
             "student_name": "Ruchin Amaratunga",
-            "start": "4th 14:05",
-            "end": "4th 14:35",
+            "start": "4th 09:35",
+            "end": "4th 10:05",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6605,
-            "end_t": 6635
+            "start_t": 6335,
+            "end_t": 6365
         },
         {
             "company": "WSO2",
@@ -10178,7 +10178,33 @@
             "notes-3": "",
             "start_t": 6465,
             "end_t": 6510
+        },
+        {
+            "company": "WOS2",
+            "panel": "39",
+            "student_id": "170104M",
+            "student_name": "Anutthara de Silva",
+            "start": "4th 14:00",
+            "end": "4th 14:45",
+            "notes-1": "",
+            "notes-2": "",
+            "notes-3": "",
+            "start_t": 6600,
+            "end_t": 6645
+        },
+        {
+            "company": "WOS2",
+            "panel": "40",
+            "student_id": "170388J",
+            "student_name": "Pathum Mihiranga",
+            "start": "4th 12:00",
+            "end": "4th 12:45",
+            "notes-1": "",
+            "notes-2": "",
+            "notes-3": "",
+            "start_t": 6480,
+            "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-03 17:37:24"
+    "updated": "Last Updated: 2022-01-03 18:11:07"
 }
