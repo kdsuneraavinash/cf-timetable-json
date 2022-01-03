@@ -10004,7 +10004,7 @@
             "student_name": "Sahan Jayasinghe",
             "start": "4th 16:00",
             "end": "4th 16:30",
-            "notes-1": "T",
+            "notes-1": "",
             "notes-2": "",
             "notes-3": "",
             "start_t": 6720,
@@ -10056,7 +10056,7 @@
             "student_name": "Savindu Ekanayake",
             "start": "4th 16:30",
             "end": "4th 17:00",
-            "notes-1": "T",
+            "notes-1": "",
             "notes-2": "",
             "notes-3": "",
             "start_t": 6750,
@@ -10069,7 +10069,7 @@
             "student_name": "Shammi Kolonne",
             "start": "4th 11:00",
             "end": "4th 11:30",
-            "notes-1": "T",
+            "notes-1": "",
             "notes-2": "",
             "notes-3": "",
             "start_t": 6420,
@@ -10082,12 +10082,25 @@
             "student_name": "Yasiru Rathnayaka",
             "start": "4th 12:00",
             "end": "4th 12:30",
-            "notes-1": "T",
+            "notes-1": "",
             "notes-2": "",
             "notes-3": "",
             "start_t": 6480,
             "end_t": 6510
+        },
+        {
+            "company": "WSO2",
+            "panel": "31",
+            "student_id": "170320V",
+            "student_name": "Nilmani Kulaweera",
+            "start": "5th 10:00",
+            "end": "5th 10:30",
+            "notes-1": "",
+            "notes-2": "",
+            "notes-3": "",
+            "start_t": 7800,
+            "end_t": 7830
         }
     ],
-    "updated": "Last Updated: 2022-01-03 14:23:41"
+    "updated": "Last Updated: 2022-01-03 15:03:10"
 }
