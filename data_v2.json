@@ -10100,7 +10100,20 @@
             "notes-3": "",
             "start_t": 7800,
             "end_t": 7830
+        },
+        {
+            "company": "WOS2",
+            "panel": "32",
+            "student_id": "170606E",
+            "student_name": "Chamika Sudusinghe",
+            "start": "4th 12:15",
+            "end": "4th 12:45",
+            "notes-1": "",
+            "notes-2": "",
+            "notes-3": "",
+            "start_t": 6495,
+            "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-03 15:07:28"
+    "updated": "Last Updated: 2022-01-03 15:16:04"
 }
