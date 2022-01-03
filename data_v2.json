@@ -3424,65 +3424,65 @@
             "panel": "1",
             "student_id": "170311U",
             "student_name": "Shammi Kolonne",
-            "start": "4th 09:00",
-            "end": "4th 09:45",
+            "start": "5th 11:00",
+            "end": "5th 11:45",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6300,
-            "end_t": 6345
+            "start_t": 7860,
+            "end_t": 7905
         },
         {
             "company": "DirectFN : Software Engineer - Java (Front Office)",
             "panel": "1",
             "student_id": "170576J",
             "student_name": "Janaka Shamal",
-            "start": "4th 10:15",
-            "end": "4th 11:00",
+            "start": "5th 11:50",
+            "end": "5th 12:35",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6375,
-            "end_t": 6420
+            "start_t": 7910,
+            "end_t": 7955
         },
         {
             "company": "DirectFN : Software Engineer - Java (Front Office)",
             "panel": "1",
             "student_id": "170512L",
             "student_name": "Dilanka Rathnasiri",
-            "start": "4th 11:10",
-            "end": "4th 11:55",
+            "start": "5th 13:00",
+            "end": "5th 13:45",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6430,
-            "end_t": 6475
+            "start_t": 7980,
+            "end_t": 8025
         },
         {
             "company": "DirectFN : Software Engineer - Java (Front Office)",
             "panel": "1",
             "student_id": "170669X",
             "student_name": "Disura Warusawithana",
-            "start": "4th 13:35",
-            "end": "4th 14:20",
+            "start": "5th 13:50",
+            "end": "5th 14:35",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6575,
-            "end_t": 6620
+            "start_t": 8030,
+            "end_t": 8075
         },
         {
             "company": "DirectFN : Software Engineer - Java (Front Office)",
             "panel": "1",
             "student_id": "170158F",
             "student_name": "Savindu Ekanayake",
-            "start": "4th 14:25",
-            "end": "4th 15:10",
+            "start": "5th 14:40",
+            "end": "5th 15:25",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6625,
-            "end_t": 6670
+            "start_t": 8080,
+            "end_t": 8125
         },
         {
             "company": "DirectFN : Software Engineer - Java",
@@ -10180,5 +10180,5 @@
             "end_t": 6510
         }
     ],
-    "updated": "Last Updated: 2022-01-03 17:03:19"
+    "updated": "Last Updated: 2022-01-03 17:37:24"
 }
