@@ -3709,17 +3709,6 @@
     {
         "company": "Gapstars",
         "panel": "2",
-        "student_id": "170326U",
-        "student_name": "Hiruna Kumara",
-        "start": "4th 09:00",
-        "end": "4th 09:30",
-        "": "",
-        "start_t": 6300,
-        "end_t": 6330
-    },
-    {
-        "company": "Gapstars",
-        "panel": "2",
         "student_id": "170264C",
         "student_name": "Sahan_Jayasinghe",
         "start": "4th 09:50",
@@ -3738,6 +3727,17 @@
         "": "",
         "start_t": 6610,
         "end_t": 6640
+    },
+    {
+        "company": "Gapstars",
+        "panel": "2",
+        "student_id": "170326U",
+        "student_name": "Hiruna Kumara",
+        "start": "4th 14:55",
+        "end": "4th 15:25",
+        "": "",
+        "start_t": 6655,
+        "end_t": 6685
     },
     {
         "company": "Gapstars",
@@ -8353,11 +8353,11 @@
         "panel": "4",
         "student_id": "170494F",
         "student_name": "Yoshani Ranaweera",
-        "start": "4th 16:15",
-        "end": "4th 16:45",
+        "start": "4th 17:00",
+        "end": "4th 17:30",
         "": "",
-        "start_t": 6735,
-        "end_t": 6765
+        "start_t": 6780,
+        "end_t": 6810
     },
     {
         "company": "WSO2",
@@ -8479,5 +8479,27 @@
         "": "",
         "start_t": 6390,
         "end_t": 6420
+    },
+    {
+        "company": "WSO2",
+        "panel": "16",
+        "student_id": "170350L",
+        "student_name": "Hiran Lowe",
+        "start": "4th 12:30",
+        "end": "4th 13:00",
+        "": "",
+        "start_t": 6510,
+        "end_t": 6540
+    },
+    {
+        "company": "WSO2",
+        "panel": "17",
+        "student_id": "170182X",
+        "student_name": "Madhavi Gayathri",
+        "start": "4th 15:00",
+        "end": "4th 15:30",
+        "": "",
+        "start_t": 6660,
+        "end_t": 6690
     }
 ]
