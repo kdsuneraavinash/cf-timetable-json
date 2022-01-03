@@ -7831,12 +7831,12 @@
             "panel": "1",
             "student_id": "170018D",
             "student_name": "Afra Hussaindeen",
-            "start": "5th 17:00",
+            "start": "4th 17:00",
             "end": "5th 18:00",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 8220,
+            "start_t": 6780,
             "end_t": 8280
         },
         {
@@ -10115,5 +10115,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-03 15:16:04"
+    "updated": "Last Updated: 2022-01-03 15:19:53"
 }
