@@ -10056,12 +10056,38 @@
             "student_name": "Lakshan Weerasinghe",
             "start": "4th 12:00",
             "end": "4th 12:30",
-            " notes-1": "T",
+            " notes-1": "",
             "notes-2": "",
             "notes-3": "",
             "start_t": 6480,
             "end_t": 6510
+        },
+        {
+            "company": "WSO2",
+            "panel": "19",
+            "student_id": "170328D",
+            "student_name": "Hashara Kumarasinghe",
+            "start": "4th 15:45",
+            "end": "4th 16:15",
+            " notes-1": "T",
+            "notes-2": "",
+            "notes-3": "",
+            "start_t": 6705,
+            "end_t": 6735
+        },
+        {
+            "company": "WSO2",
+            "panel": "20",
+            "student_id": "170334R",
+            "student_name": "Nadeesha Garusinghe",
+            "start": "4th 10:45",
+            "end": "4th 11:15",
+            " notes-1": "T",
+            "notes-2": "",
+            "notes-3": "",
+            "start_t": 6405,
+            "end_t": 6435
         }
     ],
-    "updated": "Last Updated: 2022-01-03 12:44:02"
+    "updated": "Last Updated: 2022-01-03 12:52:31"
 }
