@@ -10050,7 +10050,7 @@
             "end_t": 7830
         },
         {
-            "company": "WOS2",
+            "company": "WSO2",
             "panel": "32",
             "student_id": "170606E",
             "student_name": "Chamika Sudusinghe",
@@ -10063,7 +10063,7 @@
             "end_t": 6525
         },
         {
-            "company": "WOS2",
+            "company": "WSO2",
             "panel": "33",
             "student_id": "170050R",
             "student_name": "Dineth Athapaththu",
@@ -10076,7 +10076,7 @@
             "end_t": 6840
         },
         {
-            "company": "WOS2",
+            "company": "WSO2",
             "panel": "34",
             "student_id": "170676P",
             "student_name": "Gihan Ayeshmantha",
@@ -10089,7 +10089,7 @@
             "end_t": 6480
         },
         {
-            "company": "WOS2",
+            "company": "WSO2",
             "panel": "35",
             "student_id": "170576J",
             "student_name": "Janaka Shamal",
@@ -10102,7 +10102,7 @@
             "end_t": 6525
         },
         {
-            "company": "WOS2",
+            "company": "WSO2",
             "panel": "36",
             "student_id": "170303X",
             "student_name": "Kannan Kirishikesan",
@@ -10115,7 +10115,7 @@
             "end_t": 6645
         },
         {
-            "company": "WOS2",
+            "company": "WSO2",
             "panel": "37",
             "student_id": "170481M",
             "student_name": "Lakith Rambukkanage",
@@ -10128,7 +10128,7 @@
             "end_t": 6435
         },
         {
-            "company": "WOS2",
+            "company": "WSO2",
             "panel": "38",
             "student_id": "170342N",
             "student_name": "Minul Lamahewage",
@@ -10141,7 +10141,7 @@
             "end_t": 6510
         },
         {
-            "company": "WOS2",
+            "company": "WSO2",
             "panel": "39",
             "student_id": "170104M",
             "student_name": "Anutthara de Silva",
@@ -10154,7 +10154,7 @@
             "end_t": 6645
         },
         {
-            "company": "WOS2",
+            "company": "WSO2",
             "panel": "40",
             "student_id": "170388J",
             "student_name": "Pathum Mihiranga",
@@ -10167,7 +10167,7 @@
             "end_t": 6525
         },
         {
-            "company": "WOS2",
+            "company": "WSO2",
             "panel": "41",
             "student_id": "170066V",
             "student_name": "Wageesha Bangamuarachchi",
@@ -10180,7 +10180,7 @@
             "end_t": 7845
         },
         {
-            "company": "WOS2",
+            "company": "WSO2",
             "panel": "42",
             "student_id": "170145M",
             "student_name": "Sachini Dissanayaka",
@@ -10193,5 +10193,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-03 18:28:37"
+    "updated": "Last Updated: 2022-01-03 19:32:03"
 }
