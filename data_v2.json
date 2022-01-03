@@ -6788,19 +6788,6 @@
         },
         {
             "company": "Persistent Systems Lanka (PVT) LTD",
-            "panel": "1",
-            "student_id": "170431L",
-            "student_name": "Thumula Perera",
-            "start": "4th 11:30",
-            "end": "4th 11:50",
-            "notes-1": "",
-            "notes-2": "",
-            "notes-3": "",
-            "start_t": 6450,
-            "end_t": 6470
-        },
-        {
-            "company": "Persistent Systems Lanka (PVT) LTD",
             "panel": "2",
             "student_id": "170343T",
             "student_name": "Lavarthan Selvaratnam",
@@ -6841,19 +6828,6 @@
         {
             "company": "Persistent Systems Lanka (PVT) LTD",
             "panel": "3",
-            "student_id": "170346F",
-            "student_name": "Ishara Shanuka",
-            "start": "4th 09:00",
-            "end": "4th 09:20",
-            "notes-1": "",
-            "notes-2": "",
-            "notes-3": "",
-            "start_t": 6300,
-            "end_t": 6320
-        },
-        {
-            "company": "Persistent Systems Lanka (PVT) LTD",
-            "panel": "3",
             "student_id": "170098U",
             "student_name": "THISUN DAYARATHNA",
             "start": "4th 09:35",
@@ -6889,19 +6863,6 @@
             "notes-3": "",
             "start_t": 6300,
             "end_t": 6320
-        },
-        {
-            "company": "Persistent Systems Lanka (PVT) LTD",
-            "panel": "4",
-            "student_id": "170512L",
-            "student_name": "Dilanka Rathnasiri",
-            "start": "4th 09:35",
-            "end": "4th 09:55",
-            "notes-1": "",
-            "notes-2": "",
-            "notes-3": "",
-            "start_t": 6335,
-            "end_t": 6355
         },
         {
             "company": "Persistent Systems Lanka (PVT) LTD",
@@ -10219,5 +10180,5 @@
             "end_t": 7845
         }
     ],
-    "updated": "Last Updated: 2022-01-03 18:15:20"
+    "updated": "Last Updated: 2022-01-03 18:19:18"
 }
