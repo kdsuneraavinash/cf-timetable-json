@@ -4035,13 +4035,13 @@
             "panel": "1",
             "student_id": "170643M",
             "student_name": "Thuvarahan Sivaneswaran",
-            "start": "4th 09:00",
-            "end": "4th 09:30",
+            "start": "4th 14:10",
+            "end": "4th 15:10",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6300,
-            "end_t": 6330
+            "start_t": 6610,
+            "end_t": 6670
         },
         {
             "company": "Gapstars",
@@ -10115,5 +10115,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-04 09:58:11"
+    "updated": "Last Updated: 2022-01-04 10:02:03"
 }
