@@ -733,13 +733,13 @@
             "panel": "3",
             "student_id": "170051V",
             "student_name": "Malith Aththanayake",
-            "start": "4th 09:00",
-            "end": "4th 09:30",
+            "start": "4th 14:45",
+            "end": "4th 15:15",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6300,
-            "end_t": 6330
+            "start_t": 6645,
+            "end_t": 6675
         },
         {
             "company": "Axiata Digital Labs",
@@ -811,13 +811,13 @@
             "panel": "4",
             "student_id": "170685R",
             "student_name": "Hasini Weerasooriya",
-            "start": "4th 09:00",
-            "end": "4th 09:30",
+            "start": "4th 15:30",
+            "end": "4th 16:00",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6300,
-            "end_t": 6330
+            "start_t": 6690,
+            "end_t": 6720
         },
         {
             "company": "Axiata Digital Labs",
@@ -10115,5 +10115,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-04 09:55:23"
+    "updated": "Last Updated: 2022-01-04 09:56:17"
 }
