@@ -954,13 +954,13 @@
             "panel": "7",
             "student_id": "170046K",
             "student_name": "Uthayamalini Arudselvam",
-            "start": "4th 10:30",
-            "end": "4th 11:00",
+            "start": "4th 15:00",
+            "end": "4th 15:30",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6390,
-            "end_t": 6420
+            "start_t": 6660,
+            "end_t": 6690
         },
         {
             "company": "Axiata Digital Labs",
@@ -3424,13 +3424,13 @@
             "panel": "1",
             "student_id": "170251J",
             "student_name": "Gayan Jayakody",
-            "start": "4th 17:10",
-            "end": "4th 17:55",
+            "start": "5th 13:00",
+            "end": "5th 13:45",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6790,
-            "end_t": 6835
+            "start_t": 7980,
+            "end_t": 8025
         },
         {
             "company": "DirectFN : Software Engineer - Java",
@@ -10102,5 +10102,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-04 10:53:29"
+    "updated": "Last Updated: 2022-01-04 11:13:07"
 }
