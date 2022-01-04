@@ -1708,13 +1708,13 @@
             "panel": "2",
             "student_id": "170478K",
             "student_name": "Dilani Rajendren",
-            "start": "4th 09:35",
-            "end": "4th 10:05",
+            "start": "5th 09:00",
+            "end": "5th 09:30",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6335,
-            "end_t": 6365
+            "start_t": 7740,
+            "end_t": 7770
         },
         {
             "company": "Cloud Solutions International",
@@ -10063,5 +10063,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-04 15:42:41"
+    "updated": "Last Updated: 2022-01-04 15:43:24"
 }
