@@ -1214,13 +1214,13 @@
             "panel": "1",
             "student_id": "170669X",
             "student_name": "Disura Warusawithana",
-            "start": "4th 09:25",
-            "end": "4th 10:25",
+            "start": "4th 11:45",
+            "end": "4th 12:45",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6325,
-            "end_t": 6385
+            "start_t": 6465,
+            "end_t": 6525
         },
         {
             "company": "CAKE Technologies  (Pvt) Ltd",
@@ -10102,5 +10102,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-04 10:23:11"
+    "updated": "Last Updated: 2022-01-04 10:25:34"
 }
