@@ -3775,13 +3775,13 @@
             "panel": "3",
             "student_id": "170527L",
             "student_name": "Raveesha_Rukshani",
-            "start": "4th 10:45",
-            "end": "4th 11:45",
+            "start": "5th 10:45",
+            "end": "5th 11:45",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6405,
-            "end_t": 6465
+            "start_t": 7845,
+            "end_t": 7905
         },
         {
             "company": "Enactor",
@@ -10102,5 +10102,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-04 10:12:09"
+    "updated": "Last Updated: 2022-01-04 10:23:11"
 }
