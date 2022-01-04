@@ -1331,13 +1331,13 @@
             "panel": "1",
             "student_id": "170584G",
             "student_name": "Ashan Silva",
-            "start": "4th 13:00",
-            "end": "4th 13:45",
+            "start": "5th 10:40",
+            "end": "5th 11:25",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6540,
-            "end_t": 6585
+            "start_t": 7840,
+            "end_t": 7885
         },
         {
             "company": "Circles Life Technology Lanka (PVT) Ltd.",
@@ -3242,13 +3242,13 @@
             "panel": "1",
             "student_id": "170334R",
             "student_name": "Nadeesha Garusinghe",
-            "start": "4th 13:50",
-            "end": "4th 14:35",
+            "start": "4th 15:45",
+            "end": "4th 16:30",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6590,
-            "end_t": 6635
+            "start_t": 6705,
+            "end_t": 6750
         },
         {
             "company": "DirectFN : Software Engineer - Full Stack",
@@ -8390,13 +8390,13 @@
             "panel": "5",
             "student_id": "170481M",
             "student_name": "Lakith_Rambukkanage",
-            "start": "4th 15:10",
-            "end": "4th 16:10",
+            "start": "5th 14:15",
+            "end": "5th 15:15",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6670,
-            "end_t": 6730
+            "start_t": 8055,
+            "end_t": 8115
         },
         {
             "company": "Thirdfort",
@@ -10063,5 +10063,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-04 14:52:47"
+    "updated": "Last Updated: 2022-01-04 15:42:41"
 }
