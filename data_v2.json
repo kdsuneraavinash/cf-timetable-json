@@ -5736,19 +5736,6 @@
         {
             "company": "London Stock Exchange Group : Software Engineer",
             "panel": "2",
-            "student_id": "170203P",
-            "student_name": "Ayesh Hallawaarachchi",
-            "start": "4th 09:00",
-            "end": "4th 09:45",
-            "notes-1": "",
-            "notes-2": "",
-            "notes-3": "",
-            "start_t": 6300,
-            "end_t": 6345
-        },
-        {
-            "company": "London Stock Exchange Group : Software Engineer",
-            "panel": "2",
             "student_id": "170337E",
             "student_name": "Rashmika Lakshan",
             "start": "4th 10:50",
@@ -5758,6 +5745,19 @@
             "notes-3": "",
             "start_t": 6410,
             "end_t": 6455
+        },
+        {
+            "company": "London Stock Exchange Group : Software Engineer",
+            "panel": "2",
+            "student_id": "170203P",
+            "student_name": "Ayesh Hallawaarachchi",
+            "start": "4th 11:45",
+            "end": "4th 12:30",
+            "notes-1": "",
+            "notes-2": "",
+            "notes-3": "",
+            "start_t": 6465,
+            "end_t": 6510
         },
         {
             "company": "London Stock Exchange Group : Software Engineer",
@@ -10154,5 +10154,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-04 07:05:43"
+    "updated": "Last Updated: 2022-01-04 08:52:57"
 }
