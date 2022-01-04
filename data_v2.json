@@ -263,19 +263,6 @@
         {
             "company": "Arimac Lanka (Pvt) Ltd.",
             "panel": "3",
-            "student_id": "170050R",
-            "student_name": "Dineth Athapaththu",
-            "start": "4th 10:10",
-            "end": "4th 10:40",
-            "notes-1": "",
-            "notes-2": "",
-            "notes-3": "",
-            "start_t": 6370,
-            "end_t": 6400
-        },
-        {
-            "company": "Arimac Lanka (Pvt) Ltd.",
-            "panel": "3",
             "student_id": "170366P",
             "student_name": "Hashan Maduwantha",
             "start": "4th 11:20",
@@ -10115,5 +10102,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-04 10:03:55"
+    "updated": "Last Updated: 2022-01-04 10:12:09"
 }
