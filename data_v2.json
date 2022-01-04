@@ -7922,13 +7922,13 @@
             "panel": "1",
             "student_id": "170320V",
             "student_name": "Nilmani Kulaweera",
-            "start": "4th 13:00",
-            "end": "4th 14:00",
+            "start": "4th 16:30",
+            "end": "4th 17:30",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6540,
-            "end_t": 6600
+            "start_t": 6750,
+            "end_t": 6810
         },
         {
             "company": "Sysco LABS Technologies (Pvt) Limited : SE_5",
@@ -10063,5 +10063,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-04 13:29:57"
+    "updated": "Last Updated: 2022-01-04 13:43:46"
 }
