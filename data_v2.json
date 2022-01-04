@@ -3450,13 +3450,13 @@
             "panel": "1",
             "student_id": "170251J",
             "student_name": "Gayan Jayakody",
-            "start": "4th 09:00",
-            "end": "4th 09:45",
+            "start": "4th 17:10",
+            "end": "4th 17:55",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6300,
-            "end_t": 6345
+            "start_t": 6790,
+            "end_t": 6835
         },
         {
             "company": "DirectFN : Software Engineer - Java",
@@ -10128,5 +10128,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-04 09:04:16"
+    "updated": "Last Updated: 2022-01-04 09:15:28"
 }
