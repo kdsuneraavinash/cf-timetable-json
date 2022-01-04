@@ -289,19 +289,6 @@
         {
             "company": "Arimac Lanka (Pvt) Ltd.",
             "panel": "4",
-            "student_id": "170342N",
-            "student_name": "Minul Lamahewage",
-            "start": "4th 09:35",
-            "end": "4th 10:05",
-            "notes-1": "",
-            "notes-2": "",
-            "notes-3": "",
-            "start_t": 6335,
-            "end_t": 6365
-        },
-        {
-            "company": "Arimac Lanka (Pvt) Ltd.",
-            "panel": "4",
             "student_id": "170205A",
             "student_name": "Hemaka Hansika",
             "start": "4th 10:55",
@@ -2670,13 +2657,13 @@
             "panel": "3",
             "student_id": "170043A",
             "student_name": "Amanda_Ariyaratne",
-            "start": "4th 09:00",
-            "end": "4th 09:30",
+            "start": "5th 09:00",
+            "end": "5th 09:30",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6300,
-            "end_t": 6330
+            "start_t": 7740,
+            "end_t": 7770
         },
         {
             "company": "Creative Software_ALL",
@@ -10128,5 +10115,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-04 09:27:01"
+    "updated": "Last Updated: 2022-01-04 09:48:11"
 }
