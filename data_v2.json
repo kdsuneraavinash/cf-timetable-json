@@ -5257,13 +5257,13 @@
             "panel": "1",
             "student_id": "170118J",
             "student_name": "Denuwan Liyanage",
-            "start": "4th 09:00",
-            "end": "4th 09:15",
+            "start": "4th 11:55",
+            "end": "4th 12:40",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6300,
-            "end_t": 6315
+            "start_t": 6475,
+            "end_t": 6520
         },
         {
             "company": "iTelasoft (Pvt) Ltd",
@@ -10115,5 +10115,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-04 09:57:13"
+    "updated": "Last Updated: 2022-01-04 09:58:11"
 }
