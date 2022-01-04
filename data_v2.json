@@ -6297,13 +6297,13 @@
             "panel": "1",
             "student_id": "170396G",
             "student_name": "Chamika Nandasiri",
-            "start": "4th 09:00",
-            "end": "4th 09:20",
+            "start": "4th 12:00",
+            "end": "4th 12:20",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6300,
-            "end_t": 6320
+            "start_t": 6480,
+            "end_t": 6500
         },
         {
             "company": "Nagarro (Private) Limited",
@@ -6401,13 +6401,13 @@
             "panel": "3",
             "student_id": "170669X",
             "student_name": "Disura Warusawithana",
-            "start": "4th 09:00",
-            "end": "4th 09:20",
+            "start": "4th 11:20",
+            "end": "4th 11:40",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6300,
-            "end_t": 6320
+            "start_t": 6440,
+            "end_t": 6460
         },
         {
             "company": "Nagarro (Private) Limited",
@@ -10128,5 +10128,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-04 09:15:28"
+    "updated": "Last Updated: 2022-01-04 09:27:01"
 }
