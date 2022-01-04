@@ -7272,13 +7272,13 @@
             "panel": "1",
             "student_id": "170163P",
             "student_name": "Chamodi Fernando",
-            "start": "4th 09:35",
-            "end": "4th 10:05",
+            "start": "4th 17:20",
+            "end": "4th 17:50",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6335,
-            "end_t": 6365
+            "start_t": 6800,
+            "end_t": 6830
         },
         {
             "company": "SYNERGEN Health",
@@ -10102,5 +10102,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-04 10:43:47"
+    "updated": "Last Updated: 2022-01-04 10:53:29"
 }
