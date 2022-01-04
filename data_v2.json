@@ -538,13 +538,13 @@
             "panel": "1",
             "student_id": "170016U",
             "student_name": "Jayampathi Adhikari",
-            "start": "4th 09:00",
-            "end": "4th 09:30",
+            "start": "4th 14:45",
+            "end": "4th 15:15",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6300,
-            "end_t": 6330
+            "start_t": 6645,
+            "end_t": 6675
         },
         {
             "company": "Axiata Digital Labs",
@@ -10102,5 +10102,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-04 10:27:52"
+    "updated": "Last Updated: 2022-01-04 10:40:10"
 }
