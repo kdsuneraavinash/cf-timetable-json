@@ -8013,13 +8013,13 @@
             "panel": "1",
             "student_id": "170585K",
             "student_name": "Kaveesha Silva",
-            "start": "4th 10:15",
-            "end": "4th 11:15",
+            "start": "4th 12:00",
+            "end": "4th 13:00",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6375,
-            "end_t": 6435
+            "start_t": 6480,
+            "end_t": 6540
         },
         {
             "company": "Sysco LABS Technologies (Pvt) Limited : SE_7",
@@ -10102,5 +10102,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-04 11:13:07"
+    "updated": "Last Updated: 2022-01-04 11:16:01"
 }
