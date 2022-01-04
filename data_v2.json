@@ -834,16 +834,16 @@
         },
         {
             "company": "Axiata Digital Labs",
-            "panel": "5",
-            "student_id": "170094E",
-            "student_name": "Sasmitha Dasanayaka",
-            "start": "4th 09:00",
-            "end": "4th 09:30",
+            "panel": "7",
+            "student_id": "170046K",
+            "student_name": "Uthayamalini Arudselvam",
+            "start": "4th 15:00",
+            "end": "4th 15:30",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6300,
-            "end_t": 6330
+            "start_t": 6660,
+            "end_t": 6690
         },
         {
             "company": "Axiata Digital Labs",
@@ -922,19 +922,6 @@
             "notes-3": "",
             "start_t": 6335,
             "end_t": 6365
-        },
-        {
-            "company": "Axiata Digital Labs",
-            "panel": "7",
-            "student_id": "170046K",
-            "student_name": "Uthayamalini Arudselvam",
-            "start": "4th 15:00",
-            "end": "4th 15:30",
-            "notes-1": "",
-            "notes-2": "",
-            "notes-3": "",
-            "start_t": 6660,
-            "end_t": 6690
         },
         {
             "company": "Axiata Digital Labs",
@@ -10076,5 +10063,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-04 11:33:47"
+    "updated": "Last Updated: 2022-01-04 11:52:32"
 }
