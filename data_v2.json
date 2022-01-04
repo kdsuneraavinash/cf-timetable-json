@@ -2462,13 +2462,13 @@
             "panel": "1",
             "student_id": "170311U",
             "student_name": "Shammi Kolonne",
-            "start": "4th 14:10",
-            "end": "4th 14:40",
+            "start": "5th 09:00",
+            "end": "5th 09:30",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6610,
-            "end_t": 6640
+            "start_t": 7740,
+            "end_t": 7770
         },
         {
             "company": "Creative Software_ALL",
@@ -10063,5 +10063,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-04 15:43:44"
+    "updated": "Last Updated: 2022-01-04 16:11:20"
 }
