@@ -262,32 +262,6 @@
         },
         {
             "company": "Arimac Lanka (Pvt) Ltd.",
-            "panel": "3",
-            "student_id": "170366P",
-            "student_name": "Hashan Maduwantha",
-            "start": "4th 11:20",
-            "end": "4th 11:50",
-            "notes-1": "",
-            "notes-2": "",
-            "notes-3": "",
-            "start_t": 6440,
-            "end_t": 6470
-        },
-        {
-            "company": "Arimac Lanka (Pvt) Ltd.",
-            "panel": "4",
-            "student_id": "170205A",
-            "student_name": "Hemaka Hansika",
-            "start": "4th 10:55",
-            "end": "4th 11:25",
-            "notes-1": "",
-            "notes-2": "",
-            "notes-3": "",
-            "start_t": 6415,
-            "end_t": 6445
-        },
-        {
-            "company": "Arimac Lanka (Pvt) Ltd.",
             "panel": "5",
             "student_id": "170638D",
             "student_name": "Achintha Isuru",
@@ -5920,13 +5894,13 @@
             "panel": "1",
             "student_id": "170337E",
             "student_name": "Rashmika Lakshan",
-            "start": "4th 10:25",
-            "end": "4th 10:45",
+            "start": "4th 12:10",
+            "end": "4th 12:30",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6385,
-            "end_t": 6405
+            "start_t": 6490,
+            "end_t": 6510
         },
         {
             "company": "Meetrix Technology Solutions (Pvt) Ltd",
@@ -10102,5 +10076,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-04 11:17:27"
+    "updated": "Last Updated: 2022-01-04 11:30:04"
 }
