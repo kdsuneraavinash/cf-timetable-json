@@ -5985,13 +5985,13 @@
             "panel": "1",
             "student_id": "170706K",
             "student_name": "Sepali Wijerathna",
-            "start": "4th 16:25",
-            "end": "4th 17:25",
+            "start": "5th 13:15",
+            "end": "5th 14:00",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6745,
-            "end_t": 6805
+            "start_t": 7995,
+            "end_t": 8040
         },
         {
             "company": "Mitra Innovation",
@@ -10063,5 +10063,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-04 22:21:29"
+    "updated": "Last Updated: 2022-01-04 23:00:44"
 }
