@@ -222,84 +222,6 @@
             "end_t": 6470
         },
         {
-            "company": "Arimac Lanka (Pvt) Ltd.",
-            "panel": "2",
-            "student_id": "170587T",
-            "student_name": "Sanju Anupa",
-            "start": "4th 09:00",
-            "end": "4th 09:30",
-            "notes-1": "",
-            "notes-2": "",
-            "notes-3": "",
-            "start_t": 6300,
-            "end_t": 6330
-        },
-        {
-            "company": "Arimac Lanka (Pvt) Ltd.",
-            "panel": "2",
-            "student_id": "170643M",
-            "student_name": "Thuvarahan Sivaneswaran",
-            "start": "4th 10:35",
-            "end": "4th 11:05",
-            "notes-1": "",
-            "notes-2": "",
-            "notes-3": "",
-            "start_t": 6395,
-            "end_t": 6425
-        },
-        {
-            "company": "Arimac Lanka (Pvt) Ltd.",
-            "panel": "2",
-            "student_id": "170396G",
-            "student_name": "Chamika Nandasiri",
-            "start": "4th 11:20",
-            "end": "4th 11:50",
-            "notes-1": "",
-            "notes-2": "",
-            "notes-3": "",
-            "start_t": 6440,
-            "end_t": 6470
-        },
-        {
-            "company": "Arimac Lanka (Pvt) Ltd.",
-            "panel": "5",
-            "student_id": "170638D",
-            "student_name": "Achintha Isuru",
-            "start": "4th 09:00",
-            "end": "4th 09:30",
-            "notes-1": "",
-            "notes-2": "",
-            "notes-3": "",
-            "start_t": 6300,
-            "end_t": 6330
-        },
-        {
-            "company": "Arimac Lanka (Pvt) Ltd.",
-            "panel": "5",
-            "student_id": "170620P",
-            "student_name": "Tharmeekan Sivarasan",
-            "start": "4th 10:10",
-            "end": "4th 10:40",
-            "notes-1": "",
-            "notes-2": "",
-            "notes-3": "",
-            "start_t": 6370,
-            "end_t": 6400
-        },
-        {
-            "company": "Arimac Lanka (Pvt) Ltd.",
-            "panel": "5",
-            "student_id": "170446L",
-            "student_name": "Kavinda Perera",
-            "start": "4th 10:45",
-            "end": "4th 11:15",
-            "notes-1": "",
-            "notes-2": "",
-            "notes-3": "",
-            "start_t": 6405,
-            "end_t": 6435
-        },
-        {
             "company": "AtLink Communications Pvt Ltd",
             "panel": "1",
             "student_id": "170144J",
@@ -10063,5 +9985,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-04 23:00:44"
+    "updated": "Last Updated: 2022-01-05 07:36:23"
 }
