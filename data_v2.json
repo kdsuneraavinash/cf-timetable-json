@@ -5892,19 +5892,6 @@
         {
             "company": "Mitra Innovation",
             "panel": "1",
-            "student_id": "170158F",
-            "student_name": "Savindu Ekanayake",
-            "start": "5th 09:00",
-            "end": "5th 10:00",
-            "notes-1": "",
-            "notes-2": "",
-            "notes-3": "",
-            "start_t": 7740,
-            "end_t": 7800
-        },
-        {
-            "company": "Mitra Innovation",
-            "panel": "1",
             "student_id": "170366P",
             "student_name": "Hashan Maduwantha",
             "start": "5th 10:05",
@@ -9959,5 +9946,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-05 07:54:13"
+    "updated": "Last Updated: 2022-01-05 08:09:45"
 }
