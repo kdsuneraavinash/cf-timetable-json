@@ -4631,19 +4631,6 @@
         {
             "company": "Grubtech (Pvt) Ltd",
             "panel": "6",
-            "student_id": "170294R",
-            "student_name": "Imasha_karunarathne",
-            "start": "5th 09:25",
-            "end": "5th 10:05",
-            "notes-1": "",
-            "notes-2": "",
-            "notes-3": "",
-            "start_t": 7765,
-            "end_t": 7805
-        },
-        {
-            "company": "Grubtech (Pvt) Ltd",
-            "panel": "6",
             "student_id": "170160E",
             "student_name": "Bashana Elikewela",
             "start": "5th 10:20",
@@ -4926,19 +4913,6 @@
             "notes-3": "",
             "start_t": 7790,
             "end_t": 7820
-        },
-        {
-            "company": "hSenidMbile Solutions (Pvt) Ltd",
-            "panel": "1",
-            "student_id": "170294R",
-            "student_name": "Imasha_karunarathne",
-            "start": "5th 11:15",
-            "end": "5th 11:45",
-            "notes-1": "",
-            "notes-2": "",
-            "notes-3": "",
-            "start_t": 7875,
-            "end_t": 7905
         },
         {
             "company": "hSenidMbile Solutions (Pvt) Ltd",
@@ -9985,5 +9959,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-05 07:36:23"
+    "updated": "Last Updated: 2022-01-05 07:46:03"
 }
