@@ -2524,16 +2524,16 @@
         },
         {
             "company": "Creative Software_ALL",
-            "panel": "3",
+            "panel": "1",
             "student_id": "170043A",
             "student_name": "Amanda_Ariyaratne",
-            "start": "5th 09:00",
-            "end": "5th 09:30",
+            "start": "5th 09:30",
+            "end": "5th 10:30",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 7740,
-            "end_t": 7770
+            "start_t": 7770,
+            "end_t": 7830
         },
         {
             "company": "Creative Software_ALL",
@@ -2823,16 +2823,16 @@
         },
         {
             "company": "Creative Software_ALL",
-            "panel": "5",
+            "panel": "1",
             "student_id": "170482R",
             "student_name": "Asanka Ranasinghe",
-            "start": "4th 14:10",
-            "end": "4th 14:40",
+            "start": "5th 11:15",
+            "end": "5th 11:45",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6610,
-            "end_t": 6640
+            "start_t": 7875,
+            "end_t": 7905
         },
         {
             "company": "Creative Software_ALL",
@@ -2914,29 +2914,29 @@
         },
         {
             "company": "Creative Software_ALL",
-            "panel": "6",
+            "panel": "1",
             "student_id": "170046K",
             "student_name": "Uthayamalini Arudselvam",
-            "start": "4th 13:35",
-            "end": "4th 14:05",
+            "start": "5th 10:30",
+            "end": "5th 10:55",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6575,
-            "end_t": 6605
+            "start_t": 7830,
+            "end_t": 7855
         },
         {
             "company": "Creative Software_ALL",
-            "panel": "6",
+            "panel": "1",
             "student_id": "170387F",
             "student_name": "Vihan Melaka",
-            "start": "4th 14:10",
-            "end": "4th 14:40",
+            "start": "5th 10:00",
+            "end": "5th 10:30",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 6610,
-            "end_t": 6640
+            "start_t": 7800,
+            "end_t": 7830
         },
         {
             "company": "Creative Software_SE",
@@ -9959,5 +9959,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-05 07:46:03"
+    "updated": "Last Updated: 2022-01-05 07:54:13"
 }
