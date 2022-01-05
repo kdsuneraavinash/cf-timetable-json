@@ -1071,13 +1071,13 @@
             "panel": "1",
             "student_id": "170034X",
             "student_name": "Anjana Nanayakkara",
-            "start": "5th 09:40",
-            "end": "5th 09:45",
+            "start": "5th 10:20",
+            "end": "5th 10:25",
             "notes-1": "",
             "notes-2": "",
             "notes-3": "",
-            "start_t": 7780,
-            "end_t": 7785
+            "start_t": 7820,
+            "end_t": 7825
         },
         {
             "company": "BoardPAC (Pvt) Limited",
@@ -9946,5 +9946,5 @@
             "end_t": 6525
         }
     ],
-    "updated": "Last Updated: 2022-01-05 08:09:45"
+    "updated": "Last Updated: 2022-01-05 10:08:12"
 }
